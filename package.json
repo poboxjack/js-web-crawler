@@ -1,7 +1,7 @@
 {
   "name": "js-web-crawler",
   "version" : "0.0.0",
-  "description": "Simple js webscrawler",
+  "description": "Simple js webcrawler",
   "main": "crawler.js",
   "author": "poboxjack",
   "license": "ISC",
